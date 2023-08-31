@@ -2,7 +2,9 @@
 
 This repository contains the code for the machine learning assignment on predicting housing prices.
 
-## Approach
+## Documentation
+
+**Approach**
 
 The approach I used to predict housing prices is as follows:
 1. I loaded the housing price dataset and performed data exploration and cleaning. This involved inspecting the data, handling missing values, and encoding categorical features.
