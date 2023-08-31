@@ -20,7 +20,7 @@ The following hyperparameters were chosen for the decision tree algorithm to fur
 * Min samples split: This is the minimum number of samples required to split a node. I tried different values for this hyperparameter, including 20, 30, and 40.
 * Min samples leaf: This is the minimum number of samples required to be in a leaf node. I tried different values for this hyperparameter, including 10, 15, and 20.
 * Max features: This is the number of features to consider when splitting a node. I tried different values for this hyperparameter, including "sqrt", "log2", and None.
-* Random state: This is a random seed used to initialize the decision tree. I used the value 42.
+* Random state: This is a random seed used to initialize the decision tree. I used the value 42 as it is a popular choice in machine learning. 
 
 **Results**
 
